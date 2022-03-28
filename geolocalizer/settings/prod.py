@@ -7,7 +7,7 @@ DEBUG = False
 
 SECRET_KEY = os.environ['SECRET_KEY']
 
-ALLOWED_HOSTS = ['storefront0906-prod.herokuapp.com']
+ALLOWED_HOSTS = ['geolocalizerip.herokuapp.com']
 
 DATABASES = {
     'default': dj_database_url.config()
