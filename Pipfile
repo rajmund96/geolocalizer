@@ -12,6 +12,7 @@ drf-nested-routers = "*"
 dj-config-url = "*"
 whitenoise = "*"
 psycopg2 = "*"
+gunicorn = "*"
 
 [dev-packages]
 
