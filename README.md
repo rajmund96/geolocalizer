@@ -1,10 +1,5 @@
 # geolocalizer
 
-Uruchomienie
---------------
-w terminalu w katalogu głównym projektu należy wydac polecenie
-docker-compose up
-
 Użytkowanie
 --------------
 dostępne endpointy:
