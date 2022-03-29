@@ -5,6 +5,7 @@ Użytkowanie
 dostępne endpointy:
  
  1) Zarządzanie autoryzacją (djoser):
+ 
       /auth/users/
       
       /auth/users/me/
